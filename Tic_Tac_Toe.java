@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import javax.imageio.*;
-class Tic_Tac_Toe extends JFrame implements ActionListener
+public class Tic_Tac_Toe extends JFrame implements ActionListener
 { 
   public static int ch=0;
   public int i;
